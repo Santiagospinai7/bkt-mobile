@@ -1,0 +1,13 @@
+{
+"companyName": "mkt",
+"productName": "BASKETBALL2.0",
+"dataUrl": "BKT-Mobile.data.unityweb",
+"wasmCodeUrl": "BKT-Mobile.wasm.code.unityweb",
+"wasmFrameworkUrl": "BKT-Mobile.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF",
+"cacheControl": {"default": "must-revalidate"}
+}
